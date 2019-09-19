@@ -2,9 +2,9 @@
 
 ## 2017 汇金行
 
-- frontEndCheckList 前端清单
-- react-share react 技术栈分享
+- frontEndCheckList // 前端清单
+- react-share // react 技术栈分享
 
 ## 2019 先胜科技
 
-- react 高阶组件
+- index // 高阶组件
